@@ -3,16 +3,23 @@
 Esse é mais um desafio de Front-End que realizo, dessa vez na temática de realizar um card para um curso.
 
 ## Desktop Design
-![Design preview Desktop](./design/desktop-design.jpg)
+![Desktop design preview](./design/desktop-design.jpg)
 
 ## Desktop Result
-![Result preview Desktop](./design/result%20desktop.png)
+![Desktop result preview](./design/result%20desktop.png)
 
 ## Mobile Design
-![Design preview Mobile](./design/mobile-design.jpg)
+![Mobile design preview](./design/mobile-design.jpg)
 
 ## Mobile Result
-![Result preview Mobile](./design/result%20mobile.png)
+![Mobile result preview](./design/result%20mobile.png)
+
+## Hover Design
+![Hover design preview](./design/active-states.jpg)
+
+## Hover Result
+![Hover result preview](./design/result%20hover.png)
+
 
 
 ## Autores
