@@ -21,7 +21,7 @@ Esse é mais um desafio de Front-End que realizo, dessa vez na temática de real
 ![Hover result preview](./design/result%20hover.png)
 
 # Resultado
-## Veja o [site](https://blog-preview-card-by-dev-victor-lis.netlify.app/)!
+Veja o [site](https://blog-preview-card-by-dev-victor-lis.netlify.app/)!
 
 ## Autores
 
