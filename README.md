@@ -3,7 +3,7 @@
 Esse é mais um desafio de Front-End que realizo, dessa vez na temática de realizar um card para um curso.
 
 ## Desktop Design
-![Design preview Desktop](./design/desktop-preview.jpg)
+![Design preview Desktop](./design/desktop-design.jpg)
 
 ## Desktop Result
 ![Result preview Desktop](./design/result%20desktop.png)
