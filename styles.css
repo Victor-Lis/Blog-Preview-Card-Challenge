@@ -63,6 +63,11 @@ body {
 
   > h4{
     margin-top: 15px;
+    &:hover{
+        cursor: pointer;
+        color: hsl(47, 88%, 63%);
+        transition: .25s;
+    }
   }
 
   > .creator{
