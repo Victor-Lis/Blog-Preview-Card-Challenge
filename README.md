@@ -17,4 +17,4 @@ Esse é mais um desafio de Front-End que realizo, dessa vez na temática de real
 
 ## Autores
 
-![@Victor-Lis]('https://github.com/Victor-Lis')
+[@Victor-Lis]('https://github.com/Victor-Lis')
